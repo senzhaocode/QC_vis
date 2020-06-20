@@ -23,7 +23,7 @@ The QC_vis currently accepts outputs from following tools/modules:
   * CONPAIR
   * FACETS
 
-Users __MUST__ use sample id/name to define the output file name of above tools/modules
+Users __MUST__ use sample id/name to define the output file name of tools/modules above
 
 ### Contact
 
