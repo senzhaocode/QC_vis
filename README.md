@@ -1,5 +1,5 @@
 ## QC_vis
-QC_vis is a tool for quality control report of multiple samples on whole-genome and whole-exome sequencing. It summarises outputs from common bioinformatics tools (e.g. FastQC, Picard, GATK) and produces interactive HTML reports for sequencing data interpretation for BigMed project.
+QC_vis is a tool for quality control report of multiple samples on whole-genome and whole-exome sequencing. It summarises outputs from bioinformatics tools (e.g. FastQC, Picard, GATK) and produces interactive HTML reports for sequencing data interpretation for BigMed project.
 
 
 ### Example reports
