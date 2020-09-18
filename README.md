@@ -3,7 +3,7 @@ QC_vis is a tool for quality control report of multiple samples on whole-genome 
 
 
 ### Example reports
-* [Report for 114 primary postate cancer samples (Lørf et al. Eur Urol, 75 (3), 498-505)](http://folk.uio.no/senz/Quality_control_report_example.html)
+* [Report for 114 primary postate cancer samples (Lørf et al. Eur Urol, 75 (3), 498-505)](https://github.com/senzhaocode/QC_vis/blob/master/Quality_control_report_example.html)
 
 
 ### User manual
